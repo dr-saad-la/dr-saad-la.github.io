@@ -14,7 +14,7 @@ Welcome to Data Science and Computing Versity! Explore a comprehensive collectio
 ## Programming Languages
 
 ### Python
-- Comprehensive guides and tutorials on Python programming.
+- Comprehensive guide, step-by-step to python environment setup on major platforms [link](https://dr-saad-la.github.io/codelabs/codelabs/python-tutorial/#0).
 - Explore Python for data analysis, web development, automation, and more.
 
 ### R
