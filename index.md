@@ -4,17 +4,26 @@ Welcome to Data Science and Computing Versity! Explore a comprehensive collectio
 
 ## Programming Tools
 
-### IDEs and Text Editors
+### Integrated Development Environment (IDEs)
 - **Visual Studio Code**: A versatile code editor with extensive language support and powerful extensions.
 - **PyCharm**: A dedicated Python IDE with intelligent code assistance and integrated tools.
 - **RStudio**: An integrated development environment for R with advanced plotting capabilities.
 - **IntelliJ IDEA**: A robust IDE for Java and other JVM languages with powerful code navigation.
 - **Jupyter Notebook**: An open-source web application for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
 
+### Text Editors
+
+- **Sublime Text**
+- **Text Mate**:
+- **Vim**: Mvim, Neovim ...
+- **Emacs**: 
+- **Notepad plus plus**: 
+
 ## Programming Languages
 
 ### Python
-- Comprehensive guide, step-by-step to python environment setup on major platforms [link](https://dr-saad-la.github.io/codelabs/codelabs/python-tutorial/#0).
+- Step-by-step guide to setting up a Python environment on major platforms. [Read more](https://dr-saad-la.github.io/codelabs/codelabs/python-tutorial/#0).
+
 - Explore Python for data analysis, web development, automation, and more.
 
 ### R
@@ -65,9 +74,24 @@ Delve into statistical analysis methods, hypothesis testing, regression analysis
 
 Comprehensive guides and tutorials on machine learning algorithms, model training, and evaluation.
 
+### Machine Learning Frameworks
+
+
+### Hyperparameter Tuning ML Models
+
+### Automating Machine Learning Models
+
 ## Deep Learning
 
 Explore deep learning concepts, neural networks, and frameworks like TensorFlow and PyTorch.
+
+### Deep Learning Frameworks 
+
+#### Tensorflow
+
+#### PyTorch
+
+#### FastAI 
 
 ## And More
 
